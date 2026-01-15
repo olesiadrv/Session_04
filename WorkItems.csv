@@ -1,0 +1,33 @@
+,,,
+Epics,User stories,Tasks,Estimate (SP)
+Real-time vehicle tracking,"As a passengers, I want  to see where bus number 5 is on the map",Integrate GPS API (maps),13
+,,Setup GPS data ingestion service,
+,,Implement geo-fencing for stops,
+,,Optimize map tile rendering for mobile performance,
+,,,
+Real-time vehicle schedule,"As a passenger, I want to know how many minutes it will take for the buses to arrive at the bus stop",Setup real-time schedule database update,13
+,,Design UI for countdown timers,
+,,Implement minutes calculation engine,
+,,,
+System globalization,"As a passenger, I want to use app English, Italian, German, French languages",Implement language auto-detection,5
+,,Handle special character rendering,
+,,Setup translation management system,
+,,,
+Incident reporting,"As a passenger, I want to to report unusual activities or issues
+",Setup database for report management,8
+,,Build insedent photo-upload and categorization feature,
+,,Implement push-notification service,
+,,,
+Performance and security,"As a stakeholder, I need the system to respond in 500ms and less",Implement caching,13
+,,Configure load balancing,
+,,End-to-end latency profiling,
+,,,
+System content management,"As an operator, I want to manage routes and stop information",Develop web app,8
+,,Develop interactive map editor,
+,,Implement audit logs for changes,
+,,Create data export tools (CSV/PDF),
+,,,
+NFC registration system,As a passenger. I want to tap my phone on IoT device to register,Firmware development for NFC chip,21
+,,Develop mobile NFC broadcast module,
+,,Create API for device ID validation,
+,,Implement data encryption,
