@@ -1,0 +1,63 @@
+* commit 3324ea4f257b7fcb4d01de250997ecc47255d8d1 (new-branch)
+| Author: olesiadrv <115192323+olesiadrv@users.noreply.github.com>
+| Date:   Fri Jan 16 12:26:18 2026 +0200
+| 
+|     deleted unnessery
+|     
+| *   commit e30548f62c9073362fa9f389dc438c5086752d03 (HEAD -> master, origin/master)
+| |\  Merge: 34bb585 fe4b29a
+| |/  Author: olesiadrv <115192323+olesiadrv@users.noreply.github.com>
+|/|   Date:   Fri Jan 16 12:03:42 2026 +0200
+| |   
+| |       Merge pull request #1 from olesiadrv/new-branch
+| |       
+| |       Marge my feature into master
+| | 
+* | commit fe4b29a88bb4647e0be69c24af1ee46c51c8789d (origin/new-branch)
+| | Author: olesiadrv <115192323+olesiadrv@users.noreply.github.com>
+| | Date:   Fri Jan 16 11:59:51 2026 +0200
+| | 
+| |     new change
+| | 
+* | commit a4ec17d541b44d6d14961ae592c97f21d13b97e4
+| | Author: olesiadrv <115192323+olesiadrv@users.noreply.github.com>
+| | Date:   Fri Jan 16 11:35:46 2026 +0200
+| | 
+| |     add gitignore
+| | 
+* | commit 9b9cbd45c0e3b7ad00eeb2bf2feb88734048e3a1
+|/  Author: olesiadrv <115192323+olesiadrv@users.noreply.github.com>
+|   Date:   Fri Jan 16 11:32:12 2026 +0200
+|   
+|       new change
+|   
+*   commit 34bb585b95478adc94ab8181afa2b8428297577f
+|\  Merge: ca9ea8a f5f5fc7
+| | Author: olesiadrv <115192323+olesiadrv@users.noreply.github.com>
+| | Date:   Thu Jan 15 21:18:32 2026 +0200
+| | 
+| |     added correct tasks
+| | 
+| * commit f5f5fc7215e727d906a4eb418987410f083be111
+| | Author: olesiadrv <115192323+olesiadrv@users.noreply.github.com>
+| | Date:   Thu Jan 15 13:22:03 2026 +0200
+| | 
+| |     Update something.txt
+| | 
+* | commit ca9ea8af3a0b19ec98145063df26761e5f21163a
+|/  Author: olesiadrv <115192323+olesiadrv@users.noreply.github.com>
+|   Date:   Thu Jan 15 21:14:34 2026 +0200
+|   
+|       added correct assignment
+| 
+* commit 8a1a2d7063e60fcd91c067e92089f3f268969f73
+| Author: olesiadrv <115192323+olesiadrv@users.noreply.github.com>
+| Date:   Thu Jan 15 13:05:24 2026 +0200
+| 
+|     second commit
+| 
+* commit bfc11d4f89cc940adb447a53e06aa5d5f0fb58c3
+  Author: olesiadrv <115192323+olesiadrv@users.noreply.github.com>
+  Date:   Thu Jan 15 12:53:02 2026 +0200
+  
+      initial commit
